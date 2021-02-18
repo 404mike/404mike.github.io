@@ -1,0 +1,40 @@
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  clear:both;
+  padding:20px 0;
+  border-top: 1px solid #ccc;
+}
+
+.data {
+  padding:10px;
+  margin:10px;
+  float: left;
+  word-wrap: break-word;
+}
+
+.nid {
+  width: 35%;
+}
+.addr {
+  width: 35%
+}
+.wiki{
+  width:17%;
+} 
+.wiki a {
+  display: block;
+}
+
+.index_container a{
+  float:left;
+  padding:10px;
+  margin:10px;
+  border:1px solid #ccc;
+  display: block;
+}
