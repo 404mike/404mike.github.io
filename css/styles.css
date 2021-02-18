@@ -29,6 +29,7 @@ html,body{
 } 
 .wiki a {
   display: block;
+  margin: 5px 0;
 }
 
 .index_container a{
